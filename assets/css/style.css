@@ -485,11 +485,11 @@ main .recent-orders a{
         width: 94%;
         position: absolute;
         left: 50%;
-        transform: traslateX(-50%);
-        margin: 2rem 0 0 8.8rem;
+        transform: translateX(-50%);
+        margin: 2rem 0 0 9rem;
     } 
     main .recent-orders table{
-        width: 83vw;
+        width: 79vw;
     }
     main table thead tr th:last-child, main table thead tr th:first-child{
         display: none;
@@ -550,9 +550,9 @@ main .recent-orders a{
         padding: 0 1rem;
     }
     main .recent-orders{
-        position: inherit;
-        margin: 10rem 10rem 10rem 0  ;
-        width: 100%;
+        position: relative;
+        margin: 10rem 00.6rem 0 0  ;
+        width: 98%;
     }
     main .recent-orders table{
         width: 100%;
